@@ -171,20 +171,7 @@
       </ul>
       <p><code>ERP</code> <code>React</code> <code>Node.js</code> <code>Firebase</code> <code>QR/Barcode</code></p>
     </td>
-    <td width="50%" valign="top">
-      <h3>💼 CurrentEdge Management System</h3>
-      <p><b>Enterprise Business Management Platform</b></p>
-      <p>An end-to-end, multi-modular software platform designed to manage business operations, client relations, and financial analytics.</p>
-      <b>Modules Included:</b>
-      <ul>
-        <li>👥 Customer, Employee & Lead Management</li>
-        <li>💰 Sales, Billing, Purchase & Expense Modules</li>
-        <li>📦 Inventory & Service Request Management</li>
-        <li>📈 Real-time Analytics, Reports & User Roles</li>
-        <li>🔔 Automated System Notifications</li>
-      </ul>
-      <p><code>Full Stack</code> <code>Web App</code> <code>CRM</code> <code>Analytics</code> <code>Role Management</code></p>
-    </td>
+    
   </tr>
   <tr>
     <td width="50%" valign="top">
@@ -200,19 +187,7 @@
       </ul>
       <p><code>Flutter</code> <code>Dart</code> <code>Firebase</code> <code>Hive</code></p>
     </td>
-    <td width="50%" valign="top">
-      <h3>📄 Qotly</h3>
-      <p><b>Quotation & Vendor Management Platform</b></p>
-      <p>A streamlined quotation management solution facilitating smooth procurement workflows between customers and vendors.</p>
-      <b>Key Features:</b>
-      <ul>
-        <li>📑 Customer & Vendor Quotation Creation</li>
-        <li>📦 Catalog & Product Management</li>
-        <li>📥 Request Management & Multi-tier Approvals</li>
-        <li>🔄 Workflow Status Tracking</li>
-      </ul>
-      <p><code>Web App</code> <code>React</code> <code>REST API</code> <code>Workflow Engine</code></p>
-    </td>
+    
   </tr>
 </table>
 
@@ -230,35 +205,6 @@
 | ☁️ **Amazon Web Services (AWS)** | Cloud infrastructure, S3, EC2 & Serverless | 🚀 Learning |
 | 🤖 **AI Integration** | LLM integration, intelligent agent workflows & automation | 🔮 Exploring |
 | 🏗️ **System Design** | Scalable distributed architectures & microservices patterns | 📚 Reading |
-
-</div>
-
----
-
-## 📊 GitHub Analytics & Trophies
-
-<div align="center">
-
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="400" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  ### 🏆 GitHub Trophies
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&column=6" alt="GitHub Trophies" />
-
-  <br/><br/>
-
-  ### 📈 Contribution Graph
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" alt="Activity Graph" width="900" />
 
 </div>
 
@@ -310,7 +256,5 @@
 
   <h3>⭐ Thank you for visiting my profile!</h3>
   <p>If you like my work or projects, feel free to give them a ⭐!</p>
-
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=61afef&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 </div>
