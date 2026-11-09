@@ -1,8 +1,8 @@
 <div align="center">
 
-  # Hi there 👋, I'm <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> **Anujith K** <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>
+  # Hi there , I'm <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png"></g-emoji> **Anujith K** <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png"></g-emoji>
 
-  ### 🚀 Full Stack Developer | Project Developer | React.js | Flutter | Python | Firebase
+  ###  Full Stack Developer | Project Developer | React.js | Flutter | Python | Firebase
 
   <br/>
 
@@ -29,7 +29,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 <table border="0">
   <tr>
@@ -38,12 +38,12 @@
       <p>I enjoy building software that solves complex real-world challenges — ranging from comprehensive business management systems and enterprise ERP solutions to dynamic e-commerce platforms and cross-platform mobile applications.</p>
       <p><b>Currently building modern applications with:</b></p>
       <ul>
-        <li>⚛️ <b>React.js</b> — Modern, responsive frontends</li>
-        <li>📱 <b>Flutter</b> — Smooth cross-platform mobile apps</li>
-        <li>🐍 <b>Python</b> — Backend scripting & automation</li>
-        <li>🔥 <b>Firebase</b> — Realtime DB, Firestore, Auth & Hosting</li>
-        <li>🟢 <b>Node.js & Express</b> — Robust RESTful APIs</li>
-        <li>🍃 <b>MongoDB & MySQL</b> — Relational & NoSQL databases</li>
+        <li> <b>React.js</b> — Modern, responsive frontends</li>
+        <li> <b>Flutter</b> — Smooth cross-platform mobile apps</li>
+        <li> <b>Python</b> — Backend scripting & automation</li>
+        <li> <b>Firebase</b> — Realtime DB, Firestore, Auth & Hosting</li>
+        <li> <b>Node.js & Express</b> — Robust RESTful APIs</li>
+        <li> <b>MongoDB & MySQL</b> — Relational & NoSQL databases</li>
       </ul>
     </td>
     <td width="40%" valign="middle" align="center">
@@ -54,31 +54,31 @@
 
 ---
 
-## 🚀 Current Position & 🎓 Education
+##  Current Position &  Education
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>💼 Current Position</h3>
+      <h3> Current Position</h3>
       <p><b>Project Developer (Intern)</b><br/>
-      🏢 <i>Currentedge Systems Private Limited</i></p>
+       <i>Currentedge Systems Private Limited</i></p>
       <hr/>
       <b>Key Domains & Focus Areas:</b>
       <ul>
-        <li>⚡ Full Stack Web Development</li>
-        <li>📱 Mobile App Development</li>
-        <li>📊 ERP & CRM Systems Development</li>
-        <li>🔥 Firebase Backend Architecture</li>
-        <li>🌐 UI Development & Responsive Design</li>
-        <li>🔌 REST API Integration & Optimization</li>
-        <li>📡 Network Support & Deployment</li>
+        <li> Full Stack Web Development</li>
+        <li> Mobile App Development</li>
+        <li> ERP & CRM Systems Development</li>
+        <li> Firebase Backend Architecture</li>
+        <li> UI Development & Responsive Design</li>
+        <li> REST API Integration & Optimization</li>
+        <li> Network Support & Deployment</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🎓 Education</h3>
+      <h3> Education</h3>
       <p><b>Bachelor of Technology (B.Tech)</b><br/>
-      🎓 <i>Computer Science and Engineering</i><br/>
-      🏛️ <b>College of Engineering Vadakara</b></p>
+       <i>Computer Science and Engineering</i><br/>
+       <b>College of Engineering Vadakara</b></p>
       <hr/>
       <p>Focused on core computer science concepts, data structures, algorithms, database management systems, web development, and software engineering methodologies.</p>
     </td>
@@ -87,11 +87,11 @@
 
 ---
 
-## 💼 Technical Skills
+##  Technical Skills
 
 <div align="left">
 
-### 💻 Programming Languages
+###  Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -100,7 +100,7 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
-### 🌐 Frontend & Mobile Development
+###  Frontend & Mobile Development
 <p>
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -110,7 +110,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-### ⚙️ Backend & Databases
+###  Backend & Databases
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -119,7 +119,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### ☁️ Cloud, Hosting & Security
+###  Cloud, Hosting & Security
 <p>
   <img src="https://img.shields.io/badge/Firebase_Hosting-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -128,7 +128,7 @@
   <img src="https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-### 🛠️ Developer Tools & Utilities
+###  Developer Tools & Utilities
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -141,33 +141,33 @@
 </div>
 
 <details>
-  <summary><b>⚡ Special Integrations & Specialized Capabilities</b> (Click to Expand)</summary>
+  <summary><b> Special Integrations & Specialized Capabilities</b> (Click to Expand)</summary>
   <br/>
   <ul>
-    <li>⚡ <b>Firebase Cloud Functions</b> & <b>Firestore Security Rules</b></li>
-    <li>📱 <b>QR Code & Barcode Scanner Integration</b></li>
-    <li>📄 <b>Automated PDF Generation</b> & <b>Excel Data Export</b></li>
-    <li>🎯 <b>SEO Optimization & Responsive UI/UX Design</b></li>
+    <li> <b>Firebase Cloud Functions</b> & <b>Firestore Security Rules</b></li>
+    <li> <b>QR Code & Barcode Scanner Integration</b></li>
+    <li> <b>Automated PDF Generation</b> & <b>Excel Data Export</b></li>
+    <li><b>SEO Optimization & Responsive UI/UX Design</b></li>
   </ul>
 </details>
 
 ---
 
-## 🛠 Featured Projects
+##  Featured Projects
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🛒 EXIMS</h3>
+      <h3> EXIMS</h3>
       <p><b>Expiry Inventory Management System</b></p>
       <p>An integrated ERP & E-commerce platform specifically crafted for inventory control with real-time expiry tracking alerts.</p>
       <b>Key Features:</b>
       <ul>
-        <li>📦 Inventory Management & Expiry Alerts</li>
-        <li>📊 Comprehensive ERP Dashboard</li>
-        <li>🛍️ Customer Portal & Shopkeeper Dashboard</li>
-        <li>👑 Admin Management & Sales Analytics</li>
-        <li>🔍 QR Code & Barcode Scanner Integration</li>
+        <li> Inventory Management & Expiry Alerts</li>
+        <li> Comprehensive ERP Dashboard</li>
+        <li> Customer Portal & Shopkeeper Dashboard</li>
+        <li> Admin Management & Sales Analytics</li>
+        <li> QR Code & Barcode Scanner Integration</li>
       </ul>
       <p><code>ERP</code> <code>React</code> <code>Node.js</code> <code>Firebase</code> <code>QR/Barcode</code></p>
     </td>
@@ -175,15 +175,15 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💰 Xpenso</h3>
+      <h3> Xpenso</h3>
       <p><b>Personal Expense Tracking Mobile App</b></p>
       <p>A smart cross-platform mobile application for personal finance management, budgeting, and spending insights.</p>
       <b>Key Features:</b>
       <ul>
-        <li>💵 Income & Expense Categorization</li>
-        <li>🎯 Budget Planning & Savings Target Tracker</li>
-        <li>📊 Visual Analytics, Charts & Financial Reports</li>
-        <li>⚡ Fast Local Storage with Hive DB</li>
+        <li> Income & Expense Categorization</li>
+        <li> Budget Planning & Savings Target Tracker</li>
+        <li> Visual Analytics, Charts & Financial Reports</li>
+        <li> Fast Local Storage with Hive DB</li>
       </ul>
       <p><code>Flutter</code> <code>Dart</code> <code>Firebase</code> <code>Hive</code></p>
     </td>
@@ -193,24 +193,24 @@
 
 ---
 
-## 🌱 Currently Learning & Expanding Horizons
+##  Currently Learning & Expanding Horizons
 
 <div align="center">
 
 | Tech Area | Description / Focus | Status |
 | :--- | :--- | :---: |
-| ⚛️ **Advanced React & Next.js** | Server-Side Rendering (SSR), App Router & Full Stack React | 🔄 In Progress |
-| 📘 **TypeScript** | Strongly-typed application architecture | 🔄 In Progress |
-| 🐳 **Docker & Kubernetes** | Containerization, microservices & orchestration | 🚀 Learning |
-| ☁️ **Amazon Web Services (AWS)** | Cloud infrastructure, S3, EC2 & Serverless | 🚀 Learning |
-| 🤖 **AI Integration** | LLM integration, intelligent agent workflows & automation | 🔮 Exploring |
-| 🏗️ **System Design** | Scalable distributed architectures & microservices patterns | 📚 Reading |
+|  **Advanced React & Next.js** | Server-Side Rendering (SSR), App Router & Full Stack React |  In Progress |
+|  **TypeScript** | Strongly-typed application architecture |  In Progress |
+|  **Docker & Kubernetes** | Containerization, microservices & orchestration |  Learning |
+|  **Amazon Web Services (AWS)** | Cloud infrastructure, S3, EC2 & Serverless |  Learning |
+|  **AI Integration** | LLM integration, intelligent agent workflows & automation |  Exploring |
+|  **System Design** | Scalable distributed architectures & microservices patterns |  Reading |
 
 </div>
 
 ---
 
-## 💻 Tech Stack Icons
+##  Tech Stack Icons
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -220,19 +220,19 @@
 
 ---
 
-## 🎯 Core Interests
+##  Core Interests
 
 <div align="center">
 
-`🚀 Full Stack Development` &nbsp;|&nbsp; `📊 ERP Systems` &nbsp;|&nbsp; `💼 SaaS Products` &nbsp;|&nbsp; `📱 Mobile Applications`
+` Full Stack Development` &nbsp;|&nbsp; `ERP Systems` &nbsp;|&nbsp; ` SaaS Products` &nbsp;|&nbsp; ` Mobile Applications`
 <br/><br/>
-`☁️ Cloud Computing` &nbsp;|&nbsp; `🌐 Open Source` &nbsp;|&nbsp; `🤖 Artificial Intelligence` &nbsp;|&nbsp; `🎨 UI/UX Design` &nbsp;|&nbsp; `🏗️ Software Architecture`
+` Cloud Computing` &nbsp;|&nbsp; ` Open Source` &nbsp;|&nbsp; ` Artificial Intelligence` &nbsp;|&nbsp; ` UI/UX Design` &nbsp;|&nbsp; ` Software Architecture`
 
 </div>
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 
 <div align="center">
 
