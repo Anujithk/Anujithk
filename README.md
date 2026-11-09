@@ -250,11 +250,11 @@
 
   <br/><br/>
 
-  > 💡 *"Building innovative software solutions that simplify real-world challenges."*
+  >  *"Building innovative software solutions that simplify real-world challenges."*
 
   <br/>
 
-  <h3>⭐ Thank you for visiting my profile!</h3>
-  <p>If you like my work or projects, feel free to give them a ⭐!</p>
+  <h3> Thank you for visiting my profile!</h3>
+  <p>If you like my work or projects, feel free to give them a !</p>
 
 </div>
